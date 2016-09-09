@@ -1,0 +1,6 @@
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\DictionaryDemo\obj\Debug\DictionaryDemo.csprojResolveAssemblyReference.cache
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\DictionaryDemo\obj\Debug\DictionaryDemo.pdb

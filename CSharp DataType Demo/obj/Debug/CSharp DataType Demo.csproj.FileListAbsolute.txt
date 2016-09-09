@@ -1,0 +1,6 @@
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\CSharp DataType Demo\bin\Debug\CSharp DataType Demo.exe.config
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\CSharp DataType Demo\bin\Debug\CSharp DataType Demo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\CSharp DataType Demo\bin\Debug\CSharp DataType Demo.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\CSharp DataType Demo\obj\Debug\CSharp DataType Demo.csprojResolveAssemblyReference.cache
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\CSharp DataType Demo\obj\Debug\CSharp DataType Demo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\CSharp DataType Demo\obj\Debug\CSharp DataType Demo.pdb

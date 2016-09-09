@@ -1,0 +1,6 @@
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\Enum\bin\Debug\Enum.exe.config
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\Enum\bin\Debug\Enum.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\Enum\bin\Debug\Enum.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\Enum\obj\Debug\EnumDemo.csprojResolveAssemblyReference.cache
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\Enum\obj\Debug\Enum.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\Enum\obj\Debug\Enum.pdb

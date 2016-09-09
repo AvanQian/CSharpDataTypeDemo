@@ -1,0 +1,5 @@
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\TurpleDemo\bin\Debug\TurpleDemo.exe.config
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\TurpleDemo\bin\Debug\TurpleDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\TurpleDemo\bin\Debug\TurpleDemo.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\TurpleDemo\obj\Debug\TurpleDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\TurpleDemo\obj\Debug\TurpleDemo.pdb

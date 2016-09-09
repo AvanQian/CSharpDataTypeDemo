@@ -1,0 +1,5 @@
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\StringDemo\bin\Debug\StringDemo.exe.config
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\StringDemo\bin\Debug\StringDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\StringDemo\bin\Debug\StringDemo.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\StringDemo\obj\Debug\StringDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\StringDemo\obj\Debug\StringDemo.pdb

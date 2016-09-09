@@ -1,0 +1,6 @@
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\LinkedListVsArrayListDemo\obj\Debug\LinkedListVsArrayListDemo.csprojResolveAssemblyReference.cache
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\LinkedListVsArrayListDemo\bin\Debug\LinkedListVsArrayListDemo.exe.config
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\LinkedListVsArrayListDemo\bin\Debug\LinkedListVsArrayListDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\LinkedListVsArrayListDemo\bin\Debug\LinkedListVsArrayListDemo.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\LinkedListVsArrayListDemo\obj\Debug\LinkedListVsArrayListDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\LinkedListVsArrayListDemo\obj\Debug\LinkedListVsArrayListDemo.pdb

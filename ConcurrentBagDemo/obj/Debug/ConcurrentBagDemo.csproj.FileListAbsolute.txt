@@ -1,0 +1,5 @@
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentBagDemo\bin\Debug\ConcurrentBagDemo.exe.config
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentBagDemo\bin\Debug\ConcurrentBagDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentBagDemo\bin\Debug\ConcurrentBagDemo.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentBagDemo\obj\Debug\ConcurrentBagDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentBagDemo\obj\Debug\ConcurrentBagDemo.pdb

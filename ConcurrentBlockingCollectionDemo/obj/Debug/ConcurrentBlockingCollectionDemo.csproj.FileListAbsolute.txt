@@ -1,0 +1,6 @@
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentBlockingCollectionDemo\bin\Debug\ConcurrentBlockingCollectionDemo.exe.config
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentBlockingCollectionDemo\bin\Debug\ConcurrentBlockingCollectionDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentBlockingCollectionDemo\bin\Debug\ConcurrentBlockingCollectionDemo.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentBlockingCollectionDemo\obj\Debug\ConcurrentBlockingCollectionDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentBlockingCollectionDemo\obj\Debug\ConcurrentBlockingCollectionDemo.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentBlockingCollectionDemo\obj\Debug\ConcurrentBlockingCollectionDemo.csprojResolveAssemblyReference.cache

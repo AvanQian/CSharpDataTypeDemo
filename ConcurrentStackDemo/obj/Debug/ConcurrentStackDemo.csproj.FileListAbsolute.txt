@@ -1,0 +1,6 @@
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentStackDemo\bin\Debug\ConcurrentStackDemo.exe.config
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentStackDemo\bin\Debug\ConcurrentStackDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentStackDemo\bin\Debug\ConcurrentStackDemo.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentStackDemo\obj\Debug\ConcurrentStackDemo.csprojResolveAssemblyReference.cache
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentStackDemo\obj\Debug\ConcurrentStackDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentStackDemo\obj\Debug\ConcurrentStackDemo.pdb

@@ -1,0 +1,6 @@
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\String vs StringBuilder\bin\Debug\String vs StringBuilder.exe.config
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\String vs StringBuilder\bin\Debug\String vs StringBuilder.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\String vs StringBuilder\bin\Debug\String vs StringBuilder.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\String vs StringBuilder\obj\Debug\String vs StringBuilder.csprojResolveAssemblyReference.cache
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\String vs StringBuilder\obj\Debug\String vs StringBuilder.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\String vs StringBuilder\obj\Debug\String vs StringBuilder.pdb

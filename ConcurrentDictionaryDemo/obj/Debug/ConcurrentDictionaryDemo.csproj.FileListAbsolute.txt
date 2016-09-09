@@ -1,0 +1,6 @@
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentDictionaryDemo\bin\Debug\ConcurrentDictionaryDemo.exe.config
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentDictionaryDemo\bin\Debug\ConcurrentDictionaryDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentDictionaryDemo\bin\Debug\ConcurrentDictionaryDemo.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentDictionaryDemo\obj\Debug\ConcurrentDictionaryDemo.csprojResolveAssemblyReference.cache
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentDictionaryDemo\obj\Debug\ConcurrentDictionaryDemo.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\ConcurrentDictionaryDemo\obj\Debug\ConcurrentDictionaryDemo.pdb

@@ -1,0 +1,5 @@
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\Bit Operation\bin\Debug\Bit Operation.exe.config
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\Bit Operation\bin\Debug\Bit Operation.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\Bit Operation\bin\Debug\Bit Operation.pdb
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\Bit Operation\obj\Debug\Bit Operation.exe
+C:\myPrivate\Presentation 2015\CSharp DataType Demo\Bit Operation\obj\Debug\Bit Operation.pdb
